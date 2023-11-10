@@ -2,7 +2,7 @@
 layout: post
 title:  "Which suburb(s) to buy in Canberra Australia within your budget"
 date:   2023-11-10 08:09:06 +1000
-categories: Australian property analysis
+category: Australian property analysis
 ---
 # Which suburb(s) to buy an investment property in Canberra witin your budget
 
