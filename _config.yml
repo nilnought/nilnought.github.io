@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Data analytics by YSXW
-email: ysxw7878@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to our blogs.
+author: ysxw7878@gmail.com
+description: We are all visitors to this time, this place. We are just passing through. Our purpose here is to observe, to learn, to grow, to love…and then we return home.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nilnought.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+rss_icon: false
 
 # Build settings
 theme: minima
